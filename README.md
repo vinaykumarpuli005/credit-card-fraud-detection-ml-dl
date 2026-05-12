@@ -57,9 +57,9 @@ Fraud transactions are rare but costly. The goal is to build a model that can co
 
 | Model | Precision | Recall | F1-Score | ROC-AUC |
 |---|---:|---:|---:|---:|
-| Logistic Regression | Add value | Add value | Add value | Add value |
-| Random Forest | Add value | Add value | Add value | Add value |
-| Neural Network | Add value | Add value | Add value | Add value |
+| Logistic Regression | 0.0580 | 0.9184 | 0.1092 | 0.9699 |
+| Random Forest | 0.8454 | 0.8367 | 0.8410 | 0.9731 |
+| Neural Network | 0.6148 | 0.8469 | 0.7124 | 0.9784 |
 
 ## Files Included
 - `credit_card_fraud_detection.ipynb` - complete project notebook
