@@ -1,4 +1,10 @@
 creditcard.csv
+data/
+models/
 __pycache__/
 .ipynb_checkpoints/
 *.pkl
+*.joblib
+*.h5
+*.keras
+.DS_Store
